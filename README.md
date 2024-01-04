@@ -33,11 +33,13 @@ This application was designed to give users a place to store notes to help them 
 
 
 
-## Screen recording of application functionality 
+## Screen recording of application functionality & Deployed Link
 
 
 
 ## Screenshots
+
+
 
 
 
