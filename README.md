@@ -40,6 +40,13 @@ This application was designed to give users a place to store notes to help them 
 ## Screenshots
 
 
+<img width="1057" alt="Screenshot 2024-01-03 at 11 06 45 PM" src="https://github.com/manjotpadda13/Manjot-Note-Taker/assets/79305241/a294d780-432a-44d9-9797-927bf7d396a4">
+
+<img width="1058" alt="Screenshot 2024-01-03 at 11 07 21 PM" src="https://github.com/manjotpadda13/Manjot-Note-Taker/assets/79305241/cc7fb9aa-7135-4bbf-a64f-8a7a3208c306">
+
+<img width="1059" alt="Screenshot 2024-01-03 at 11 06 19 PM" src="https://github.com/manjotpadda13/Manjot-Note-Taker/assets/79305241/7194bb75-7924-4a46-8083-57f761492c8e">
+
+
 
 
 
