@@ -35,6 +35,8 @@ This application was designed to give users a place to store notes to help them 
 
 ## Screen recording of application functionality & Deployed Link
 
+https://drive.google.com/file/d/1mXHgwTvkOZDj7qcK60HO7oRa5p_wl5q3/view 
+
 
 
 ## Screenshots
