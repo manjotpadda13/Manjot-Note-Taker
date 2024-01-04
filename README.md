@@ -55,7 +55,7 @@ https://drive.google.com/file/d/1mXHgwTvkOZDj7qcK60HO7oRa5p_wl5q3/view
 
 ## Features
 
-Features of this application include the users ability to retrieve and save notes from/to a mock database.json file which will persist on page load unless deleted.
+Features of this application include the users ability to retrieve and save notes from to a mock database.json file 
 
 
 
